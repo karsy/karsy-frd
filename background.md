@@ -18,7 +18,7 @@
 3. 后台：可以存储文章、存储用户信息
 
 ### 3. 业务流程图
-![业务流程图](https://github.com/karsy/karsy-rfd/raw/master/images/lct.png)
+![业务流程图](https://github.com/karsy/karsy-frd/raw/master/images/lct.png)
 
 ### 技术栈
 前端技术栈：react+redux+router+immutable+rxjs+ant-design+ant-design-pro
